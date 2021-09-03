@@ -85,7 +85,7 @@ export default class AddTutorial extends Component {
         ) : (
           <div>
             <div className="form-group">
-              <label htmlFor="title">Title</label>
+              <label htmlFor="title">Name</label>
               <input
                 type="text"
                 className="form-control"
@@ -97,7 +97,7 @@ export default class AddTutorial extends Component {
               />
             </div>
             <div className="form-group">
-              <label htmlFor="description">name</label>
+              <label htmlFor="description">School</label>
               <input
                 type="text"
                 className="form-control"
@@ -110,7 +110,7 @@ export default class AddTutorial extends Component {
             </div>
 
             <div className="form-group">
-              <label htmlFor="description">Description</label>
+              <label htmlFor="description">class</label>
               <input
                 type="text"
                 className="form-control"
