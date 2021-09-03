@@ -20,8 +20,8 @@ export default function Home() {
   </li>
   <li class="list-group-item d-flex justify-content-between align-items-start">
     <div class="ms-2 me-auto">
-      <div class="fw-bold">Subheading</div>
-      Cras justo odio
+      <div class="fw-bold">next test</div>
+      next sunday
     </div>
     <span class="badge bg-primary rounded-pill">14</span>
   </li>

@@ -77,8 +77,8 @@ export default class TutorialsList extends Component {
       <div className="list row">
         <div className="col-md-6">
 
-        <h2>New teacher Reacord</h2>
-          <h4>Tutorials List</h4>
+        <h2>New Student  Reacord</h2>
+          <h4>Students list</h4>
 
           <ul className="list-group">
             {tutorials &&
