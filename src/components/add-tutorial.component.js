@@ -74,7 +74,7 @@ export default class AddTutorial extends Component {
     return (
       <div className="submit-form">
 
-<h2>New teacher Reacord</h2>
+<h2>New Students Reacord</h2>
         {this.state.submitted ? (
           <div>
             <h4>You submitted successfully!</h4>

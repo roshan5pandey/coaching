@@ -24,12 +24,12 @@ class App extends Component {
             </li>
             <li className="nav-item">
               <Link to={"/tutorials"} className="nav-link">
-                List of teachers
+                List of Students
               </Link>
             </li>
             <li className="nav-item">
               <Link to={"/add"} className="nav-link">
-                Add
+                register student
               </Link>
             </li>
           </div>
