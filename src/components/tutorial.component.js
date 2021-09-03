@@ -134,7 +134,7 @@ export default class Tutorial extends Component {
           <div className="edit-form">
             <form>
               <div className="form-group">
-                <label htmlFor="title">Title</label>
+                <label htmlFor="title">Name</label>
                 <input
                   type="text"
                   className="form-control"
@@ -144,7 +144,7 @@ export default class Tutorial extends Component {
                 />
               </div>
               <div className="form-group">
-                <label htmlFor="title">name</label>
+                <label htmlFor="title">school</label>
                 <input
                   type="text"
                   className="form-control"
